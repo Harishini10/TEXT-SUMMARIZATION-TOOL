@@ -23,3 +23,7 @@ A PYTHON SCRIPT SHOWCASING INPUT TEXT AND CONCISE SUMMARIES.
 # Another real-life application is in legal and business document analysis, where professionals can summarize lengthy contracts, policies, and reports to streamline decision-making processes. The healthcare industry can also leverage text summarization for summarizing medical reports and research findings, enabling doctors and researchers to access critical information more efficiently. In the education sector, AI-driven summarization can assist in creating study notes and summaries for students, enhancing learning experiences.
 
 # Overall, this project demonstrates the power of NLP and AI in automating text processing tasks, saving time, and improving productivity across various domains. The script, built with Sumy, NLTK, and Google Colab, provides a practical implementation of text summarization using advanced computational techniques. The reference for the code creation is ChatGPT, which helped structure the approach, optimize the implementation, and ensure accuracy in achieving the summarization task.
+
+# output:
+
+![Image](https://github.com/user-attachments/assets/6b651e90-0a23-47d0-9525-8d4fcafe077c)
